@@ -4,9 +4,9 @@ A modern, interactive web-based clone of MIT Scratch, built with React, Vite, Bl
 
 ---
 
-# Deployment: [Live Site](https://mit-scratch-clone-eight.vercel.app)
+### Deployment: [Live Site](https://mit-scratch-clone-eight.vercel.app)
 
-# Demo Link: [Demo Video](https://drive.google.com/file/d/1p4Td_plSSI4sk988gH8SfHRigYz98K3L/view?usp=sharing)
+### Demo Link: [Demo Video](https://drive.google.com/file/d/1p4Td_plSSI4sk988gH8SfHRigYz98K3L/view?usp=sharing)
 
 
 ## ✨ Features
